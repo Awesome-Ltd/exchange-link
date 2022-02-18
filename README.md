@@ -28,3 +28,7 @@
     * [upbit.com](https://upbit.com/)
 * Kraken
     * [kraken.com](https://www.kraken.com/)
+* Okx
+    * [okx.com](https://www.okx.com/)
+* Poloniex
+    * [poloniex.com](https://poloniex.com/)
