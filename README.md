@@ -1,2 +1,28 @@
-# exchange-link
-exchange-link
+# exchange-websites
+
+* Binance
+    * [binance.com](https://www.binance.com/)
+* FTX
+    * [ftx.com](https://ftx.com/)
+* Bitopro
+    * [bitopro.com](https://www.bitopro.com/)
+* Max
+    * [max.maicoin.com](https://max.maicoin.com/)
+* Gate
+    * [gate.io](https://www.gate.io/)
+* Kucoin
+    * [kucoin.com](https://www.kucoin.com/)
+* Bybit
+    * [bybit.com](https://www.bybit.com/)
+* Woo
+    * [woo.network](https://woo.network/)
+* Huobi
+    * [huobi.com](https://www.huobi.com/)
+* Bitmex
+    * [bitmex.com](https://www.bitmex.com/)
+* Mexc
+    * [mexc.com](https://www.mexc.com/)
+* Bittrex
+    * [global.bittrex.com](https://global.bittrex.com/)
+* Upbit
+    * [upbit.com](https://upbit.com/)
