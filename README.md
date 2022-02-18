@@ -26,3 +26,5 @@
     * [global.bittrex.com](https://global.bittrex.com/)
 * Upbit
     * [upbit.com](https://upbit.com/)
+* Kraken
+    * [kraken.com](https://www.kraken.com/)
